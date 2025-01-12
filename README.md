@@ -42,9 +42,9 @@ There are starting point for this application.
 
 
 ## Dependencies:
-  firebase_core: ^3.10.0
-  firebase_database: ^11.3.0
-  location: ^7.0.1
+  1. firebase_core: ^3.10.0
+  2. firebase_database: ^11.3.0
+  3. location: ^7.0.1
 
 
 # Project APK:

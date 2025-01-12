@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904396006666",
+    "project_id": "regrip-e10ec",
+    "storage_bucket": "regrip-e10ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904396006666:android:b60100d7784dd6111e06f3",
+        "android_client_info": {
+          "package_name": "com.example.regrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWVySGvQsf4QWgqx0DztHIdesv__I9ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
